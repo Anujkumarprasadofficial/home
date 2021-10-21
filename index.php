@@ -1,8 +1,4 @@
 
-
-
-<?php
-echo "
 <!DOCTYPE html><html lang="en"><head><style>*{margin: 0;padding: 0;box-sizing: border-box;font-family: 'poppins',sans-serif;}body{display: flex;justify-content: center;align-items: center;min-height: 100vh;background: #091921;}.calculator{position: relative;display: grid;}.calculator .value{grid-column: span 4;height: 50px;text-align: right;
     border-radius:10px;
     outline: 100px;
@@ -79,5 +75,4 @@ echo "
 
 
 </body>
-</html>"
- ?>
+</html>
