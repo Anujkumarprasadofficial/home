@@ -28,7 +28,6 @@
     width: 180px;
     background: red  ;
 }
-
 .calculator span.plus{
     grid-row: span 2;
     height: 200px;
@@ -73,6 +72,5 @@
 </form>
 
 
-
 </body>
-</html>
+</html> 
